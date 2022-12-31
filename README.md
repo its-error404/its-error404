@@ -21,8 +21,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="" alt="javascript" width="40" height="40" />  &ensp; </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40" />  &ensp; </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-error404&show_icons=true&locale=en&layout=compact" alt="its-error404" /></p>
 
